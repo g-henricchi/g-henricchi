@@ -9,3 +9,5 @@
 - 🔭 Atualmente estudando em: CEEP-PG
 - 🌱 Aprendendo: **[Dsenvolvimento de sistemas]**
 ---
+
+-😎 [@gu_henricchi]
