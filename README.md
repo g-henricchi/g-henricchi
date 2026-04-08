@@ -6,6 +6,6 @@
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente trabalhando em: CEEP-PG
+- 🔭 Atualmente estudando em: CEEP-PG
 - 🌱 Aprendendo: **[Dsenvolvimento de sistemas]**
 ---
