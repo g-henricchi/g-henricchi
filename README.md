@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou [Gustavo Henricchi]
 
-<!--
-**g-henricchi/g-henricchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Futuro Desenvolvedor [Estudante] | [Paraná/Brasil]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 🔭 Atualmente trabalhando em: CEEP-PG
+- 🌱 Aprendendo: **[Dsenvolvimento de sistemas]**
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+### 📈 Minha Jornada
+
+```javascript
+const minhaJornada = {
+    inicio: 2020,
+    linguagens: ["JavaScript", "Python", "TypeScript"],
+    frameworks: ["React", "Express", "Django"],
+    meta: "Criar soluções que impactam vidas através da tecnologia"
+};
