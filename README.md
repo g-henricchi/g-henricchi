@@ -11,4 +11,6 @@
 ---
 
 -😎 [@gu_henricchi]
-https://www.instagram.com/gu_henricchi?igsh=MTJreWp6amkwZHUwMA==
+---
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gu_henricchi?igsh=MTJreWp6amkwZHUwMA==)
