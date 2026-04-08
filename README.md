@@ -18,13 +18,3 @@
 </div>
 
 ---
-
-### 📈 Minha Jornada
-
-```javascript
-const minhaJornada = {
-    inicio: 2020,
-    linguagens: ["JavaScript", "Python", "TypeScript"],
-    frameworks: ["React", "Express", "Django"],
-    meta: "Criar soluções que impactam vidas através da tecnologia"
-};
